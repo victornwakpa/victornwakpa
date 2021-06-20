@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Email](nwakpavictor@gmail.com) or [Twitter](http://twitter.com/Victor_Nwakpa)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: coming soon
+- ⚡ Fun fact: I have zero github followers
