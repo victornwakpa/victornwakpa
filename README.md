@@ -8,9 +8,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my lifestyle
 - 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Cloud Computing
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Email](nwakpavictor@gmail.com) or [Twitter](http://twitter.com/Victor_Nwakpa)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have zero github followers
+- ⚡ Pronouns: He/Him
+- 😄 Fun fact: I have zero github followers 
